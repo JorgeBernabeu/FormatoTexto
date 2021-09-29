@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:FormatoTexto"
         mc:Ignorable="d"
-        Title="MainWindow"
+        Title="FormatoTexto"
+        Icon="assets/128.ico"
         Height="304.809"
         Width="499.699">
     <Grid>
