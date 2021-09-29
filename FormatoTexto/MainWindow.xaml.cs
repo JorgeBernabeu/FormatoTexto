@@ -34,7 +34,7 @@ namespace FormatoTexto
         {
             if (NegritaCheck.IsChecked == true)
                 TextoMostradoTextBlock.FontWeight = FontWeights.Bold;
- 
+
         }
         private void NegritaCheck_UnChecked(object sender, RoutedEventArgs e)
         {
